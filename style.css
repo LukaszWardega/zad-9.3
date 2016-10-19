@@ -1,0 +1,30 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+#carousel {
+	margin: 0px auto;
+	width: 400px;
+	height: 300px;
+	overflow: hidden;
+}
+
+ul {
+	width: 2000px;
+	list-style-type: none;
+}
+
+li {
+	width: 400px;
+	height: 300px;
+	list-style-type: none;
+	float: left;
+
+}
+
+img {
+	width: 400px;
+	height: 300px;
+}
